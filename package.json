@@ -1,5 +1,5 @@
 {
-  "homepage": "https://<https://jmiguelsg78.github.io/DEDI-ejercicio-componentes-sencillos/>",
+  "homepage": "https://jmiguelsg78.github.io/DEDI-ejercicio-componentes-sencillos/",
   "name": "dedi-ejercicio-componentes-sencillos",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "eslintConfig": {
     "extends": [
